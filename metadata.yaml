@@ -1,0 +1,24 @@
+_repo: The-Voice-on-the-Wire_5672
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ball, Eustace Hale
+    birthdate: 1881
+    deathdate: 1931
+    gutenberg_agent_id: '1836'
+    url: http://www.gutenberg.org/2009/agents/1836
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- GITenberg
+title: The Voice on the Wire
+url: http://www.gutenberg.org/ebooks/5672
